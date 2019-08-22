@@ -1,5 +1,5 @@
 # 关于
-PHP-page是一个轻量级的分页类
+shopify webhoot 操作类
 
 
 # 需求
@@ -7,7 +7,7 @@ PHP-page是一个轻量级的分页类
 
 # 安装
 ```shell
-composer require chenbool/curl
+composer require hyacinth/shopify_webhoot
 ```
 ```php
 use HyacinthTechnology\ShopifyClient;
